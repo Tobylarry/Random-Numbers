@@ -1,0 +1,23 @@
+body {
+    margin: auto;
+    padding-top: 100px;
+}
+
+#container {
+    text-align: center;
+    width: 500px;
+    background-color: red;
+    color: white;
+}
+
+#content {
+    font-size: 45px;
+}
+
+#button1 {
+    background-color: white;
+    color: red;
+    width: 140px;
+    height: 40px;
+    cursor: pointer;
+}
